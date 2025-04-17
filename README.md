@@ -3,6 +3,11 @@
 
 <a href="https://app.powerbi.com/links/z0cjacCu6Y?ctid=bcd6c503-83fc-4586-803e-d99eb6d525c6&pbi_source=linkShare&bookmarkGuid=401296ab-aebe-4272-85b1-751026f386e1">DashBoard</a>
 
+# Dashboard Image
+
+![image](https://github.com/user-attachments/assets/e190f32a-d773-4fd1-8c9e-388c5919b251)
+
+
 
 # Power BI Measures, Columns, and Tables
 
